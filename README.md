@@ -1,4 +1,4 @@
-# Sistema de Cálculo de Salarios para Traductores - Rodney Rodriguez
+# Sistema de Cálculo de Salarios para Traductores - Ivan Sanchez
 
 Este proyecto implementa un sistema de cálculo salarial para traductores aplicando múltiples paradigmas de programación: orientación a objetos, lógica, funcional y eventos con interfaz gráfica.
 
