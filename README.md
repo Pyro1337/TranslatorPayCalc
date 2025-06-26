@@ -39,5 +39,5 @@ Este proyecto implementa un sistema de cálculo salarial para traductores aplica
 OBS : Contar con el archivo PlanillaCalculo.xlsx en la carpeta raiz.
 Desde la terminal:
 - python main.py
-- Realizar la carga en numeros ej: ["04"] y el nombre del Traductor ["Rodney Rodriguez"] y calcular.
+- Realizar la carga en numeros ej: ["04"] y el nombre del Traductor ["Ivan Sanchez"] y calcular.
 - Si se desea listar, presionar el boton y si se desea eliminar los listados esta el segundo boton.
